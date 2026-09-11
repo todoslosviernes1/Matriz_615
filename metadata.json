@@ -1,0 +1,6 @@
+{
+  "name": "Matriz 625 - Gestor de Tareas Complejas",
+  "description": "Sistema integral de gestión de tareas complejas estructurado en una matriz de 625 modales operativos especializados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
